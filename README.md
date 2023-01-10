@@ -9,6 +9,6 @@ This is one of the HTML and CSS assignments, was given in **Full Stack JavaScrip
 
 ### :rocket: [Live Link](https://calm-webpage.netlify.app/)
 
-### Overview:
+### Output:
 
 ![calm-webpage-output](calm-webpage-output.png)
